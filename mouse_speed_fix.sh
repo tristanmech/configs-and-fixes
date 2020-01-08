@@ -7,3 +7,4 @@ xinput --set-prop "pointer:SINOWEALTH Game Mouse" "Device Accel Constant Deceler
 # To see the properties of an input
 # xinput --list-props "Device Name"
 # This link may help in the future https://patrickmn.com/aside/lowering-gaming-mouse-sensitivity-in-ubuntu-9-10/
+#faggit.
